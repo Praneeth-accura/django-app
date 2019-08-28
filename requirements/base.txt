@@ -1,0 +1,3 @@
+psycopg2==2.7.3.2
+wagtail==2.5.1
+django-oscar==1.6.7
